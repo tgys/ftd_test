@@ -1,0 +1,2 @@
+/run/current-system/sw/bin/ar qc libstocksLib.a CMakeFiles/stocksLib.dir/stockprices.cpp.o
+/run/current-system/sw/bin/ranlib libstocksLib.a
